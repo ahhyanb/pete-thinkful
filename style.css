@@ -58,10 +58,21 @@ hr {
 }
 
 .centered-container {
-  align-items: center;
+  margin: auto;
   display: flex;
-  jusify-content: center;
   flex-direction: column;
+}
+
+.centered-container p {
+  text-align: left; /* Align paragraphs to the left */
+}
+
+.centered-container ul {
+  text-align: left; /* Align unordered lists to the left */
+}
+
+.centered-container ol {
+  text-align: left; /* Align ordered lists to the left */
 }
 
 a {
