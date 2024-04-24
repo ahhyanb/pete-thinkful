@@ -1,11 +1,19 @@
-# Pete Thinkful
+# Pete Thinkful Portfolio
 
-This is Pete Thinkful's online profile page.
+This is Pete Thinkful's online portfolio, showcasing his artwork and providing contact information for collaborations.
 
-You will find more information on Pete Thinkful here.
+## About
 
-On the webiste, are samples of his previous work and his contact information. 
+Learn about Pete Thinkful, an artist based in Denver, Colorado, his background, and artistic interests.
 
-Please reach out to him directly.
+## Portfolio
 
-This webpage was created by Ryan Bartolome, a Chegg Skills Student.
+Explore Pete's artwork, including images and descriptions of each piece.
+
+## Contact
+
+Get in touch with Pete for collaborations or inquiries through his social media profiles.
+
+---
+
+For more information, visit Pete Thinkful's website.
