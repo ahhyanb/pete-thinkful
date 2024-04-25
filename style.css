@@ -1,6 +1,10 @@
-/* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
+/* Import Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
+/* Normalize CSS */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+
+/* Global styles */
 body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
@@ -11,8 +15,7 @@ body {
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
-h3
-{
+h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
   margin: auto;
@@ -49,8 +52,7 @@ hr {
   border: 1px solid black;
 }
 
-/* Add your solution below */
-
+/* Custom classes */
 .image-circle {
   border-radius: 50%;  
 }
